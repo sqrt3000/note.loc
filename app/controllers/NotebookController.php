@@ -125,7 +125,7 @@ class NotebookController extends AppController {
         }
         \R::trash($my_abonent);
         $_SESSION['success'] = 'Ваша запись была удалена';
-        redirect();
+        redirect(PATH.'/notebook/mybook');
 
         $this->setMeta('Удаление записи');
         $this->set(compact('abonents'));
