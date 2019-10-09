@@ -24,7 +24,7 @@
 <!-- //agileits -->
 	<!-- copyright -->
     <div class="w3-agile-copyright">
-        <p class="agileinfo"> © 1535 до н.э. - <?php echo date("Y");?> н.э. Notebook . All rights reserved | Design by <a href="https://comparium.app" rel="nofollow" target="_blank">Me))</a></p>
+        <p class="agileinfo"> © 1535 до н.э. - <?php echo date("Y");?> н.э. Notebook . All rights reserved</p>
     </div>
 	<!-- //copyright -->  
 	<!-- js -->
